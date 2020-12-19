@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="439" started-at="2020-08-07T07:24:17 IST" finished-at="2020-08-07T07:24:17 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="439" started-at="2020-08-07T07:24:17 IST" finished-at="2020-08-07T07:24:17 IST">
+      <class name="com.test.concepts.InvocationTest">
+        <test-method status="PASS" signature="searchLaptop()[pri:0, instance:com.test.concepts.InvocationTest@4f063c0a]" name="searchLaptop" duration-ms="28" started-at="2020-08-07T07:24:17 IST" finished-at="2020-08-07T07:24:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchLaptop -->
+        <test-method status="PASS" signature="searchLaptop()[pri:0, instance:com.test.concepts.InvocationTest@4f063c0a]" name="searchLaptop" duration-ms="6" started-at="2020-08-07T07:24:17 IST" finished-at="2020-08-07T07:24:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchLaptop -->
+        <test-method status="PASS" signature="searchLaptop()[pri:0, instance:com.test.concepts.InvocationTest@4f063c0a]" name="searchLaptop" duration-ms="3" started-at="2020-08-07T07:24:17 IST" finished-at="2020-08-07T07:24:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchLaptop -->
+        <test-method status="PASS" signature="searchMobile()[pri:0, instance:com.test.concepts.InvocationTest@4f063c0a]" name="searchMobile" duration-ms="3" started-at="2020-08-07T07:24:17 IST" finished-at="2020-08-07T07:24:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchMobile -->
+        <test-method status="PASS" signature="searchWatch()[pri:0, instance:com.test.concepts.InvocationTest@4f063c0a]" name="searchWatch" duration-ms="2" started-at="2020-08-07T07:24:17 IST" finished-at="2020-08-07T07:24:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchWatch -->
+        <test-method status="PASS" signature="searchWatch()[pri:0, instance:com.test.concepts.InvocationTest@4f063c0a]" name="searchWatch" duration-ms="3" started-at="2020-08-07T07:24:17 IST" finished-at="2020-08-07T07:24:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchWatch -->
+      </class> <!-- com.test.concepts.InvocationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
